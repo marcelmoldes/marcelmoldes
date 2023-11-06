@@ -6,6 +6,7 @@
 
 
  ![image](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/a3ed988e-48e3-4e2a-bb0e-bbc421443dc4)
+![image](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/4743ceb8-bb88-453d-96db-d03a40c4bd38)
 
  
 - 🌱 I’m currently learning ...
