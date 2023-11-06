@@ -4,11 +4,9 @@
 
 **marcelmoldes/marcelmoldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- FRONTEND:JavaScript(Vue.js),Css(Tailwind),Html,Vue.js,
- BACKEND: Node.js(Express.js),Sequelize,JavaScript,JWTtoken,API REST
- DATABASE: MYSQL
- TESTING: POSTMAN
- 
+
+ ![image](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/a3ed988e-48e3-4e2a-bb0e-bbc421443dc4)
+
  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
