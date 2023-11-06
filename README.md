@@ -1,13 +1,12 @@
-### Hi im Marcel👋
 
 ![fullstackdeveloper](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/9bd8b408-e92b-4102-9b99-6971f8f2bd7c)
 
 <h1 align="center">Hi 👋, I'm Marcel</h1>
-<h3 align="center">A passionate fullstack developer from Spain</h3>
+<h3 align="center">A passionate junior fullstack developer from Spain</h3>
+📄 Know about my experiences:
+<h2 align="center">IN THE FRONTEND I USE HTML, CSS (TAILWIND) , JAVASCRIPT (VUE.JS), AND AXIOS, IN THE BACKEND NODE.JS, EXPRESS.JS, SEQUELIZE... SQL DATABASE(MYSQL) ,I HAVE A LITTLE KNOWLEDGE FROM MONGODB, I USE POSTMAN TO TEST MY APIS</h2>
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,VUE.JS,MYSQL,GIT,NODE.JS...**
-
-- 📫 How to reach me **moldesmarcel41@gmail.com**
+- 📫 How to reach me ? **moldesmarcel41@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
