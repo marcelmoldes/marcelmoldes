@@ -1,5 +1,5 @@
 
- ![fullstackdeveloper](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/9bd8b408-e92b-4102-9b99-6971f8f2bd7c)</
+ ![fullstackdeveloper](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/9bd8b408-e92b-4102-9b99-6971f8f2bd7c)
 
 <h1 align="center">Hi 👋, I'm Marcel</h1>
 <h3 align="center">A passionate junior fullstack developer with 1 year of experience.</h3>
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me ? **moldesmarcel41@gmail.com**
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Eager to learn, passionate about the world of programming, motivated, I love working as a team, I adapt quickly to any environment, good effective communication.
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
