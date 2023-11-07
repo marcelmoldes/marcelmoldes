@@ -2,7 +2,7 @@
 ![fullstackdeveloper](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/9bd8b408-e92b-4102-9b99-6971f8f2bd7c)
 
 <h1 align="center">Hi 👋, I'm Marcel</h1>
-<h3 align="center">A passionate junior fullstack developer from Spain</h3>
+<h3 align="center">A passionate junior fullstack developer with 1 year of experience.</h3>
 📄 Know about my experiences:
 <h2 align="center"> FRONTEND:HTML,CSS(TAILWIND),JAVASCRIPT(VUE.JS),AXIOS. BACKEND:NODE.JS,EXPRESS.JS,SEQUELIZE,SQL DATABASE(MYSQL),I HAVE A LITTLE KNOWLEDGE FROM MONGODB,I USE POSTMAN TO TEST MY APIS</h2>
 
