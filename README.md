@@ -12,12 +12,7 @@
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+
 
 <br />
 <br />
@@ -29,7 +24,7 @@
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
-https://github-stats-alpha.vercel.app/api?marcelmoldes={marcelmoldes}&cc=000&tc=fff&ic=fff&bc=000
+https://github-stats-alpha.vercel.app/api?username={marcelmoldes}&cc=000&tc=fff&ic=fff&bc=000
 
 Where cc = Card Color
       tc = Text Color
