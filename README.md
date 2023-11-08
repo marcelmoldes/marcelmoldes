@@ -1,16 +1,19 @@
 
+
  ![fullstackdeveloper](https://github.com/marcelmoldes/marcelmoldes/assets/119307010/9bd8b408-e92b-4102-9b99-6971f8f2bd7c)
 
 <h1 align="center">Hi 👋, I'm Marcel</h1>
 <h3 align="center">A passionate junior fullstack developer with 1 year of experience.</h3>
 📄 Know about my experiences:
-<h2 align="center"> FRONTEND:HTML,CSS(TAILWIND),JAVASCRIPT(VUE.JS),AXIOS. BACKEND:NODE.JS,EXPRESS.JS,SEQUELIZE,SQL DATABASE(MYSQL),I HAVE A LITTLE KNOWLEDGE FROM MONGODB,I USE POSTMAN TO TEST MY APIS</h2>
+<ul>
+    <li align="center" >HTML,CSS(TAILWIND),JAVASCRIPT(VUE.JS),AXIOS</li>
+ <li align="center" >Node.Js,Express.js,Sequelize,SQL(MYSQL)</li>
 
 - 📫 How to reach me ? **moldesmarcel41@gmail.com**
 
 - 📈 Eager to learn, passionate about the world of programming, motivated, I love working as a team, I adapt quickly to any environment, good effective communication.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love learning new things, and improving my techniques and knowledge as a programmer.
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
