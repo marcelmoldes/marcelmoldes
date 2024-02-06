@@ -6,7 +6,7 @@
 <h3 align="center">A passionate junior fullstack developer with 1 year of experience.</h3>
 📄 Know about my experiences:
 <ul>
-    <li>HTML,CSS,JAVASCRIPT,VUE.JS,AXIOS,Adonis.js,Typescript,Tailwind,</li>
+    <li>HTML,CSS,JAVASCRIPT,VUE.JS,AXIOS,Adonis.js,Typescript,Tailwind,Bootstrap</li>
  <li>Node.Js,Express.js,Sequelize,SQL(MYSQL),Lucid</li>
 
 - 📫 How to reach me ? **moldesmarcel41@gmail.com**
