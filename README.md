@@ -7,7 +7,7 @@
 📄 Know about my experiences:
 <ul>
   <li>HTML,CSS,JAVASCRIPT,VUE.JS,AXIOS,Adonis.js,Typescript,Tailwind,Bootstrap</li>
- <li>Node.Js,Express.js,Sequelize,SQL(MYSQL),Lucid</li>
+ <li>Node.Js,Express.js,Sequelize,SQL(MYSQL),NOSQL(MongoDB) and Lucid</li>
 </ul>
 
 - 📫 How to reach me ? **moldesmarcel41@gmail.com**
