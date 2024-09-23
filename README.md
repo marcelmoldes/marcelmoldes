@@ -6,8 +6,9 @@
 <h3 align="center">A passionate junior fullstack developer</h3>
 📄 Know about my experiences:
 <ul>
-  <li>HTML,CSS,JAVASCRIPT,VUE.JS,AXIOS,Adonis.js,Typescript,Tailwind,Bootstrap</li>
- <li>Node.Js,Express.js,Sequelize,SQL(MYSQL),NOSQL(MongoDB) and Lucid</li>
+  <li>HTML,CSS,JAVASCRIPT,VUE.JS,AXIOS,Adonis.js,ReactJS,Typescript,Tailwind,Bootstrap</li>
+ <li>Node.Js,Express.js,Nest.JS,TYPEORM,Sequelize,SQL(MYSQL),NOSQL(MongoDB),Lucid</li>
+ <li>KOMMO,MAKE,ODOO,AWS</li>
 </ul>
 
 - 📫 How to reach me ? **moldesmarcel41@gmail.com**
